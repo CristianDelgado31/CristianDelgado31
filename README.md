@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+
 <!--
 **CristianDelgado31/CristianDelgado31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
